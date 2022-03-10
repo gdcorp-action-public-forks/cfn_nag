@@ -1,2 +1,2 @@
-# By default, request a review from the cfn-nag-committers team
-*       @stelligent/cfn-nag-committers
+# By default, request a review from the fork request owner
+*       @nbobo-godaddy
